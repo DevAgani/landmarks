@@ -7,4 +7,4 @@ A Swift Tutorial from the official [Site](https://developer.apple.com/tutorials/
 - Creating Nested/Complex Views
 - Using UIKit views within SwiftUI views
 
-Here's a preview of the application ![Application](./Landmarks.png)
+Here's a preview of the application ![Application](./landmark_updated.png)
