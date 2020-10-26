@@ -7,6 +7,8 @@
         "state": "California",
         "id": 1001,
         "park": "Joshua Tree National Park",
+        "isFavorite":true,
+        "isFeatured":false,
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
@@ -19,6 +21,8 @@
         "city": "Port Alsworth",
         "state": "Alaska",
         "id": 1002,
+        "isFavorite":false,
+        "isFeatured":true,
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -152.665167,
@@ -32,6 +36,8 @@
         "city": "Skagway",
         "state": "Alaska",
         "id": 1003,
+        "isFavorite":true,
+        "isFeatured":false,
         "park": "Klondike Gold Rush National Historical Park",
         "coordinates": {
             "longitude": -135.334571,
@@ -45,6 +51,8 @@
         "city": "Browning",
         "state": "Montana",
         "id": 1004,
+        "isFavorite":true,
+        "isFeatured":false,
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.536248,
@@ -58,6 +66,8 @@
         "city": "Twin Lakes",
         "state": "Alaska",
         "id": 1005,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -153.849883,
@@ -71,6 +81,8 @@
         "city": "West Glacier",
         "state": "Montana",
         "id": 1006,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.934831,
@@ -84,6 +96,8 @@
         "city": "Eaking",
         "state": "Alaska",
         "id": 1007,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Charley Rivers National Preserve",
         "coordinates": {
             "longitude": -143.122586,
@@ -97,6 +111,8 @@
         "city": "Icy Bay",
         "state": "Alaska",
         "id": 1008,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Wrangell-St. Elias National Park and Preserve",
         "coordinates": {
             "longitude": -141.518167,
@@ -110,6 +126,8 @@
         "city": "Willow",
         "state": "Alaska",
         "id": 1009,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "State Recreation Area",
         "coordinates": {
             "longitude": -150.086103,
@@ -123,6 +141,8 @@
         "city": "Newhalem",
         "state": "Washington",
         "id": 1010,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "North Cascades National Park",
         "coordinates": {
             "longitude": -121.17799,
@@ -136,6 +156,8 @@
         "city": "Chincoteague",
         "state": "Virginia",
         "id": 1011,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Chincoteague National Wildlife Refuge",
         "coordinates": {
             "longitude": -75.383212,
@@ -149,6 +171,8 @@
         "city": "Errol",
         "state": "New Hampshire",
         "id": 1012,
+        "isFavorite":false,
+        "isFeatured":false,
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
